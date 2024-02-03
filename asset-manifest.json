@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.778eeed7.css",
-    "main.js": "/portfolio/static/js/main.386b75d7.js",
-    "static/js/787.4b24f717.chunk.js": "/portfolio/static/js/787.4b24f717.chunk.js",
+    "main.css": "/portfolio/static/css/main.4f1451bb.css",
+    "main.js": "/portfolio/static/js/main.687bec15.js",
+    "static/js/787.6971d1b3.chunk.js": "/portfolio/static/js/787.6971d1b3.chunk.js",
     "static/media/Aakash.jpg": "/portfolio/static/media/Aakash.bdcd011da878bba2ca8d.jpg",
     "static/media/Travarsa-Logo.jpg": "/portfolio/static/media/Travarsa-Logo.d4c167a0247e508876a8.jpg",
     "index.html": "/portfolio/index.html",
-    "main.778eeed7.css.map": "/portfolio/static/css/main.778eeed7.css.map",
-    "main.386b75d7.js.map": "/portfolio/static/js/main.386b75d7.js.map",
-    "787.4b24f717.chunk.js.map": "/portfolio/static/js/787.4b24f717.chunk.js.map"
+    "main.4f1451bb.css.map": "/portfolio/static/css/main.4f1451bb.css.map",
+    "main.687bec15.js.map": "/portfolio/static/js/main.687bec15.js.map",
+    "787.6971d1b3.chunk.js.map": "/portfolio/static/js/787.6971d1b3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.778eeed7.css",
-    "static/js/main.386b75d7.js"
+    "static/css/main.4f1451bb.css",
+    "static/js/main.687bec15.js"
   ]
 }
