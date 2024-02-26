@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.6c9b2279.css",
-    "main.js": "/portfolio/static/js/main.333dd686.js",
+    "main.js": "/portfolio/static/js/main.f3d4eeb9.js",
     "static/js/787.6971d1b3.chunk.js": "/portfolio/static/js/787.6971d1b3.chunk.js",
     "static/media/Aakash.jpg": "/portfolio/static/media/Aakash.bdcd011da878bba2ca8d.jpg",
     "static/media/Travarsa-Logo.jpg": "/portfolio/static/media/Travarsa-Logo.d4c167a0247e508876a8.jpg",
     "index.html": "/portfolio/index.html",
     "main.6c9b2279.css.map": "/portfolio/static/css/main.6c9b2279.css.map",
-    "main.333dd686.js.map": "/portfolio/static/js/main.333dd686.js.map",
+    "main.f3d4eeb9.js.map": "/portfolio/static/js/main.f3d4eeb9.js.map",
     "787.6971d1b3.chunk.js.map": "/portfolio/static/js/787.6971d1b3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6c9b2279.css",
-    "static/js/main.333dd686.js"
+    "static/js/main.f3d4eeb9.js"
   ]
 }
