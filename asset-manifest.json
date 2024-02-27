@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.e47c2563.css",
-    "main.js": "/portfolio/static/js/main.1adb9b77.js",
+    "main.js": "/portfolio/static/js/main.13f9771a.js",
     "static/js/787.6971d1b3.chunk.js": "/portfolio/static/js/787.6971d1b3.chunk.js",
     "static/media/Aakash.jpg": "/portfolio/static/media/Aakash.bdcd011da878bba2ca8d.jpg",
     "static/media/travelaro.jpg": "/portfolio/static/media/travelaro.64812c5bdb592b256b03.jpg",
@@ -10,11 +10,11 @@
     "static/media/Travarsa-Logo.jpg": "/portfolio/static/media/Travarsa-Logo.d4c167a0247e508876a8.jpg",
     "index.html": "/portfolio/index.html",
     "main.e47c2563.css.map": "/portfolio/static/css/main.e47c2563.css.map",
-    "main.1adb9b77.js.map": "/portfolio/static/js/main.1adb9b77.js.map",
+    "main.13f9771a.js.map": "/portfolio/static/js/main.13f9771a.js.map",
     "787.6971d1b3.chunk.js.map": "/portfolio/static/js/787.6971d1b3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e47c2563.css",
-    "static/js/main.1adb9b77.js"
+    "static/js/main.13f9771a.js"
   ]
 }
