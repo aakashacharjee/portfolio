@@ -1,21 +1,22 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.e47c2563.css",
-    "main.js": "/portfolio/static/js/main.342d974d.js",
+    "main.js": "/portfolio/static/js/main.b3022011.js",
     "static/js/787.6971d1b3.chunk.js": "/portfolio/static/js/787.6971d1b3.chunk.js",
     "static/media/Aakash.jpg": "/portfolio/static/media/Aakash.bdcd011da878bba2ca8d.jpg",
     "static/media/travelaro.jpg": "/portfolio/static/media/travelaro.64812c5bdb592b256b03.jpg",
+    "static/media/blog-site.jpg": "/portfolio/static/media/blog-site.c97e392c049d07fe4766.jpg",
     "static/media/atri-app.jpg": "/portfolio/static/media/atri-app.94968e4f9f51bb80f37f.jpg",
     "static/media/cred-clone.jpg": "/portfolio/static/media/cred-clone.14bbbefb9f07a44bb87e.jpg",
     "static/media/product-catelog.jpg": "/portfolio/static/media/product-catelog.a3ed980cb3f0f220cfff.jpg",
     "static/media/Travarsa-Logo.jpg": "/portfolio/static/media/Travarsa-Logo.d4c167a0247e508876a8.jpg",
     "index.html": "/portfolio/index.html",
     "main.e47c2563.css.map": "/portfolio/static/css/main.e47c2563.css.map",
-    "main.342d974d.js.map": "/portfolio/static/js/main.342d974d.js.map",
+    "main.b3022011.js.map": "/portfolio/static/js/main.b3022011.js.map",
     "787.6971d1b3.chunk.js.map": "/portfolio/static/js/787.6971d1b3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e47c2563.css",
-    "static/js/main.342d974d.js"
+    "static/js/main.b3022011.js"
   ]
 }
