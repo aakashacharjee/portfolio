@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.e47c2563.css",
-    "main.js": "/portfolio/static/js/main.3b3e72fd.js",
+    "main.js": "/portfolio/static/js/main.d8bace12.js",
     "static/media/siliguri-college.png": "/portfolio/static/media/siliguri-college.4afacb9282e4a290b42c.png",
     "static/media/Aakash.jpg": "/portfolio/static/media/Aakash.bdcd011da878bba2ca8d.jpg",
     "static/media/travelaro.jpg": "/portfolio/static/media/travelaro.64812c5bdb592b256b03.jpg",
@@ -13,10 +13,10 @@
     "static/media/Travarsa-Logo.jpg": "/portfolio/static/media/Travarsa-Logo.d4c167a0247e508876a8.jpg",
     "index.html": "/portfolio/index.html",
     "main.e47c2563.css.map": "/portfolio/static/css/main.e47c2563.css.map",
-    "main.3b3e72fd.js.map": "/portfolio/static/js/main.3b3e72fd.js.map"
+    "main.d8bace12.js.map": "/portfolio/static/js/main.d8bace12.js.map"
   },
   "entrypoints": [
     "static/css/main.e47c2563.css",
-    "static/js/main.3b3e72fd.js"
+    "static/js/main.d8bace12.js"
   ]
 }
