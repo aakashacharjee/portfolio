@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.e47c2563.css",
-    "main.js": "/portfolio/static/js/main.a1a451e7.js",
+    "main.js": "/portfolio/static/js/main.3b3e72fd.js",
     "static/media/siliguri-college.png": "/portfolio/static/media/siliguri-college.4afacb9282e4a290b42c.png",
     "static/media/Aakash.jpg": "/portfolio/static/media/Aakash.bdcd011da878bba2ca8d.jpg",
     "static/media/travelaro.jpg": "/portfolio/static/media/travelaro.64812c5bdb592b256b03.jpg",
@@ -9,14 +9,14 @@
     "static/media/amity-kolkata.jpg": "/portfolio/static/media/amity-kolkata.686b3f43e1cda91f35ac.jpg",
     "static/media/atri-app.jpg": "/portfolio/static/media/atri-app.94968e4f9f51bb80f37f.jpg",
     "static/media/cred-clone.jpg": "/portfolio/static/media/cred-clone.14bbbefb9f07a44bb87e.jpg",
-    "static/media/product-catelog.jpg": "/portfolio/static/media/product-catelog.a3ed980cb3f0f220cfff.jpg",
+    "static/media/product-catalog.jpg": "/portfolio/static/media/product-catalog.a3ed980cb3f0f220cfff.jpg",
     "static/media/Travarsa-Logo.jpg": "/portfolio/static/media/Travarsa-Logo.d4c167a0247e508876a8.jpg",
     "index.html": "/portfolio/index.html",
     "main.e47c2563.css.map": "/portfolio/static/css/main.e47c2563.css.map",
-    "main.a1a451e7.js.map": "/portfolio/static/js/main.a1a451e7.js.map"
+    "main.3b3e72fd.js.map": "/portfolio/static/js/main.3b3e72fd.js.map"
   },
   "entrypoints": [
     "static/css/main.e47c2563.css",
-    "static/js/main.a1a451e7.js"
+    "static/js/main.3b3e72fd.js"
   ]
 }
