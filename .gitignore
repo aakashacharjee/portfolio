@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Build artifacts (old React build)
+static/
+asset-manifest.json
+
+# Private documents
+Profile.pdf
+pdf-forge-exports/
+
+# Temp scripts
+extract_info.py
+extract_config.py
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# IDE
+.vscode/
+.idea/
