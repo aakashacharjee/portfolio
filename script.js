@@ -10,12 +10,12 @@ document.addEventListener('DOMContentLoaded', () => {
   // ────────────────────────────────
   const typedElement = document.getElementById('typedText');
   const phrases = [
-    'Software Engineer',
+    'Senior Software Engineer',
     'Java & Spring Boot',
-    'API Infrastructure',
-    'Microservices Architecture',
+    'API Gateway Modernization',
+    'Microservices & Distributed Systems',
     'Backend Systems Builder',
-    'DSA Enthusiast'
+    'Kubernetes & DevOps'
   ];
   let phraseIndex = 0;
   let charIndex = 0;
